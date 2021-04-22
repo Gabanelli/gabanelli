@@ -1,7 +1,7 @@
 <h2>Hi , I'm Gui 😀</h2>
 <p>Currently I'm working as Mobile Developer at Viajanet, in São Paulo, Brazil. I'm developing the ViajaNet App using Flutter.</p>
 <p>
-  <a href="www.linkedin.com/in/gabanelli-guilherme/">
+  <a href="https://www.linkedin.com/in/gabanelli-guilherme/">
     <img src="https://img.shields.io/badge/-@gabanelliGui-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabanelli-guilherme" alt="LinkedIn Badge">
   </a>
   <a href="https://twitter.com/gabanelliGui">
