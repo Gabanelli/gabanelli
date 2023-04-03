@@ -22,7 +22,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="gcp" width="25" height="25" />
 </p>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=gabanelli&show_icons=true&count_private=true" alt="gabanelli" /> -->
-<p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=gabanelli.gabanelli" alt="visitors">
-</p>
